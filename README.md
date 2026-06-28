@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/comparison_pipeline.png" width="55%">
+  <img src="assets/comparison_pipeline.png" width="70%">
 </p>
 
 <span style="font-size: 16px; font-weight: 600;">MM-TRELLIS</span> is a point-cloud guided multi-modal 3D vehicle generation framework for autonomous driving. Built upon [TRELLIS](https://github.com/microsoft/TRELLIS), MM-TRELLIS extends the original image-to-3D generation pipeline to in-the-wild driving scenarios by incorporating **multi-view image conditioning**, **LiDAR / point-cloud guided sparse-structure generation**, and **opacity-based voxel filtering**. It enables zero-shot vehicle reconstruction from multi-view camera observations and instance-level LiDAR point clouds without retraining the original TRELLIS model.
