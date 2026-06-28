@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+*.conda
+
+# Outputs and local experiments
+outputs/
+output/
+runs/
+logs/
+wandb/
+/tmp/
+
+# Model/checkpoint files
+ckpts/
+checkpoints/
+pretrained/
+*.ckpt
+*.pth
+*.pt
+*.safetensors
+
+# Generated media/assets
+*.mp4
+*.glb
+*.obj
+*.mtl
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

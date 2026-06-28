@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+title: "MM-TRELLIS: Point-Cloud Guided Multi-Modal 3D Vehicle Generation in Autonomous Driving"
+message: "If you use this software, please cite the associated arXiv paper."
+type: software
+authors:
+  - family-names: Xiao
+    given-names: Hongli
+  - family-names: Zhang
+    given-names: Youjian
+  - family-names: Bai
+    given-names: Yucai
+  - family-names: Wang
+    given-names: Chaoyue
+  - family-names: Jin
+    given-names: Yaohui
+  - family-names: Ren
+    given-names: Xiaoguang
+  - family-names: Yang
+    given-names: Wenjing
+  - family-names: Lan
+    given-names: Long
+repository-code: "https://github.com/HongliXiao/MM-TRELLIS"
+url: "https://arxiv.org/abs/2606.24301"
+date-released: "2026-06-23"
+license: "NOASSERTION"
+preferred-citation:
+  type: article
+  title: "MM-TRELLIS: Point-Cloud Guided Multi-Modal 3D Vehicle Generation in Autonomous Driving"
+  authors:
+    - family-names: Xiao
+      given-names: Hongli
+    - family-names: Zhang
+      given-names: Youjian
+    - family-names: Bai
+      given-names: Yucai
+    - family-names: Wang
+      given-names: Chaoyue
+    - family-names: Jin
+      given-names: Yaohui
+    - family-names: Ren
+      given-names: Xiaoguang
+    - family-names: Yang
+      given-names: Wenjing
+    - family-names: Lan
+      given-names: Long
+  year: 2026
+  archive-prefix: arXiv
+  eprint: "2606.24301"

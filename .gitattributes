@@ -1,0 +1,5 @@
+# Recommended for example media/data if Git LFS is enabled.
+# Comment these lines out if you prefer keeping the small examples directly in Git.
+*.png filter=lfs diff=lfs merge=lfs -text
+*.ply filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text

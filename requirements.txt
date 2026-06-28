@@ -1,0 +1,36 @@
+# Core Python dependencies for MM-TRELLIS/TRELLIS inference.
+# Install PyTorch separately for your CUDA version before installing this file.
+# Verified setup: Python 3.12.3, torch 2.7.1+cu126, NVIDIA H20 / CUDA 12.2 driver.
+
+accelerate==1.12.0
+addict==2.4.0
+black==25.12.0
+Cython==0.29.37
+diffusers==0.36.0
+easydict==1.13
+huggingface-hub==0.36.0
+imageio==2.37.3
+imageio-ffmpeg==0.6.0
+igraph==1.0.0
+lpips
+matplotlib==3.10.8
+ninja==1.13.0
+numpy==2.2.6
+onnxruntime-gpu==1.23.2
+open3d==0.19.0
+opencv-python-headless==4.12.0.88
+pandas==2.3.3
+pillow==12.0.0
+plyfile==1.1.4
+pymeshfix==0.18.1
+pyvista==0.48.4
+rembg==2.0.69
+safetensors==0.7.0
+scikit-image==0.26.0
+scikit-learn==1.8.0
+scipy==1.16.3
+tqdm==4.67.1
+transformers==4.57.3
+trimesh==4.10.1
+utils3d==0.0.2
+xatlas==0.0.11
